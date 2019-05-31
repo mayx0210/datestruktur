@@ -25,7 +25,7 @@ object DoubleLinkedListDemo {
     doubleLinkedList.delete(2)
     println("双向链表删除结点后")
     doubleLinkedList.show()
-    println("=================")
+    println("==================")
 
     doubleLinkedList.add(node3)
     doubleLinkedList.show()
