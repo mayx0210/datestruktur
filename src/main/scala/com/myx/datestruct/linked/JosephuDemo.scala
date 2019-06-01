@@ -5,7 +5,7 @@ object JosephuDemo {
     val josephu = new Josephu()
     josephu.addBoy(5)
     josephu.list()
-    //josephu.countBoy(2,2,5)
-    josephu.countBoy1(2,2,5)
+    josephu.countBoy(2,2,5)
+    //josephu.countBoy1(2,2,5)
   }
 }

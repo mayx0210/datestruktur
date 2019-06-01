@@ -65,7 +65,7 @@ class Josephu {
     }
     breakable{
       while (true){
-        //判断是否只剩下一个孩子了
+        //判断是否只剩下一个孩子
         if (helper == first){
           break()
         }
